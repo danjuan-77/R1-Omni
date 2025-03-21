@@ -179,6 +179,9 @@ An example json file of the training data:
 ### wandb
 ![image](https://github.com/user-attachments/assets/3395bafa-aaba-4212-902d-91067a1cd19a)
 
+## Usage Policy
+
+To ensure transparency and accountability, please review our [Usage Policy](./user_policy.md).
 
 ## 🤝 Related Work
 - [R1-V](https://github.com/Deep-Agent/R1-V)
