@@ -5,7 +5,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2503.05379-red)](https://arxiv.org/abs/2503.05379)
 
 
-## ✨ Updates
+## ✨ News
+- **2025.3.24** 🌟 **Featured in the People's Daily**: We are deeply honored to have our work recognized and reported by [People's Daily](https://www.peopleapp.com/column/30048593660-500006161900).
+- **2025.3.12** 🌍 **Covered by Bloomberg**: Our work has been featured in [Bloomberg](https://www.bloomberg.com/news/articles/2025-03-12/alibaba-releases-emotional-intelligence-model-to-rival-chatgpt). 
 
 ## 📋 ToDo
 - [ ] A clearer and more detailed environment setup.
