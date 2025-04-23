@@ -294,7 +294,7 @@ class HumanOmniVLGRPOTrainer(Trainer):
         if not audio_tower.is_loaded:
             audio_tower.load_model()
 
-        bert_model = "/mnt/data/jiaxing.zjx/code/R1-V-Qwen/R1-V/bert-base-uncased"
+        bert_model = "bert-base-uncased"
         self.bert_tokenizer = BertTokenizer.from_pretrained(bert_model)
 
 
