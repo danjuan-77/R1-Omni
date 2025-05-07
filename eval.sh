@@ -20,11 +20,11 @@ python eval.py --model_path /home/tuwenming/Models/StarJiaxing/R1-Omni-0.5B --ta
 
 # # Level 4
 # python eval.py --model_path /home/tuwenming/Models/StarJiaxing/R1-Omni-0.5B --task_path /home/tuwenming/Projects/HAVIB/data/levels/level_4/AVC
-# python eval.py --model_path /home/tuwenming/Models/StarJiaxing/R1-Omni-0.5B --task_path /home/tuwenming/Projects/HAVIB/data/levels/level_4/AVLG
+python eval.py --model_path /home/tuwenming/Models/StarJiaxing/R1-Omni-0.5B --task_path /home/tuwenming/Projects/HAVIB/data/levels/level_4/AVLG
 # python eval.py --model_path /home/tuwenming/Models/StarJiaxing/R1-Omni-0.5B --task_path /home/tuwenming/Projects/HAVIB/data/levels/level_4/AVQA
 
 # # Level 5
-# python eval.py --model_path /home/tuwenming/Models/StarJiaxing/R1-Omni-0.5B --task_path /home/tuwenming/Projects/HAVIB/data/levels/level_5/AVLG
+python eval.py --model_path /home/tuwenming/Models/StarJiaxing/R1-Omni-0.5B --task_path /home/tuwenming/Projects/HAVIB/data/levels/level_5/AVLG
 # python eval.py --model_path /home/tuwenming/Models/StarJiaxing/R1-Omni-0.5B --task_path /home/tuwenming/Projects/HAVIB/data/levels/level_5/AVQA
 
 # nohup bash eval.sh > /home/tuwenming/Projects/HAVIB/logs/eval_r1-omni-0.5b_gpu2_$(date +%Y%m%d%H%M%S).log 2>&1 &
